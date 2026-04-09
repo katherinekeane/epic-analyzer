@@ -266,6 +266,7 @@ MIT License - Free to use and modify
 
 ## Related Tools
 
+By [@dramseur](https://github.com/dramseur):
 - [Sprint Health Analyzer](https://github.com/dramseur/sprint-health-analyzer) - Track sprint metrics
 - [Backlog Analyzer](https://github.com/dramseur/backlog-analyzer) - Analyze backlog health
 
