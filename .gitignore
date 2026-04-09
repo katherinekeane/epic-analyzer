@@ -1,0 +1,15 @@
+# Epic Analyzer output files
+*_epic_analysis_*.json
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
